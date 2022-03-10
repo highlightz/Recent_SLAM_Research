@@ -20,6 +20,16 @@
 
 ---
 
+### AR
+
+#### 1. [survey] [2022-02-18_Modern Augmented Reality: Applications, Trends, and Future Directions](https://arxiv.org/abs/2202.09450)
+
+#### 1. [AR & Robotics] [2022-02-23_Virtual, Augmented, and Mixed Reality for Human-Robot Interaction: A Survey and Virtual Design Element Taxonomy](https://arxiv.org/abs/2202.11249)
+#### 2. [AR & 5G] [2022-03-04_Extended Reality (XR) over 5G and 5G-Advanced New Radio: Standardization, Applications, and Trends](https://arxiv.org/abs/2203.02242)
+#### 3. [AR & Robotics] [2022-03-07_Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)
+
+---
+
 ### Localization
 #### 1. [VPR] [2022-02-18_MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery](https://arxiv.org/abs/2202.09146) |  [code](https://github.com/Ahmedest61/MultiRes-NetVLAD)
 
