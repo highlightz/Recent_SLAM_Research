@@ -22,11 +22,15 @@
 
 ### AR
 
-#### 1. [survey] [2022-02-18_Modern Augmented Reality: Applications, Trends, and Future Directions](https://arxiv.org/abs/2202.09450)
+#### 1. [Interaction] [2022-01-25_AnyGesture: Arbitrary One-Handed Gestures for Augmented, Virtual, and Mixed Reality Applications](https://scholar.google.com/scholar_url?url=https://www.mdpi.com/2076-3417/12/4/1888/pdf&hl=zh-CN&sa=X&d=569801102176849297&ei=e7spYsKnGJGJmwGt9K-wAQ&scisig=AAGBfm0iKA1H3hgwN4p67iekcUr7f-XAZA&oi=scholaralrt&html=&pos=0&folt=rel)
 
-#### 1. [AR & Robotics] [2022-02-23_Virtual, Augmented, and Mixed Reality for Human-Robot Interaction: A Survey and Virtual Design Element Taxonomy](https://arxiv.org/abs/2202.11249)
-#### 2. [AR & 5G] [2022-03-04_Extended Reality (XR) over 5G and 5G-Advanced New Radio: Standardization, Applications, and Trends](https://arxiv.org/abs/2203.02242)
-#### 3. [AR & Robotics] [2022-03-07_Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)
+#### 2. [User Experience] [2022-02-09_Cybersickness and Its Severity Arising from Virtual Reality Content: A Comprehensive Study](https://scholar.google.com/scholar_url?url=https://www.mdpi.com/1424-8220/22/4/1314/pdf&hl=zh-CN&sa=X&d=194531123073878741&ei=e7spYsKnGJGJmwGt9K-wAQ&scisig=AAGBfm04aJGj1NbYYGgaMYH1zvFJA0OT6A&oi=scholaralrt&html=&pos=1&folt=rel)
+
+#### 3. [survey] [2022-02-18_Modern Augmented Reality: Applications, Trends, and Future Directions](https://arxiv.org/abs/2202.09450)
+
+#### 4. [AR & Robotics] [2022-02-23_Virtual, Augmented, and Mixed Reality for Human-Robot Interaction: A Survey and Virtual Design Element Taxonomy](https://arxiv.org/abs/2202.11249)
+#### 5. [AR & 5G] [2022-03-04_Extended Reality (XR) over 5G and 5G-Advanced New Radio: Standardization, Applications, and Trends](https://arxiv.org/abs/2203.02242)
+#### 6. [AR & Robotics] [2022-03-07_Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)
 
 ---
 
