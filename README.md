@@ -15,8 +15,15 @@
 ---
 ### SLAM 
 #### 1. [VIO] [2022-01-11_DM-VIO: Delayed Marginalization Visual-Inertial Odometry](https://arxiv.org/abs/2201.04114) | [code](https://vision.in.tum.de/research/vslam/dm-vio?redirect=1)
-#### 2. [VISLAM] [2022-02-18_OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure](https://arxiv.org/abs/2202.09199)
-#### 3. [benchmark] [2022-02-23_Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets](https://arxiv.org/abs/2202.11312)
+
+#### 2. [VIO, DNN, VINS-Mono based] [2022-01-14_SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions](https://arxiv.org/abs/2201.05386)
+
+#### 3. [Calibration] [2022_01-29_Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy](https://arxiv.org/abs/2201.09170)
+
+#### 4. [VISLAM] [2022-02-18_OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure](https://arxiv.org/abs/2202.09199)
+#### 5. [benchmark] [2022-02-23_Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets](https://arxiv.org/abs/2202.11312)
+
+#### 6. [VIO] [2022-03-14_A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry](https://arxiv.org/abs/2203.07207)
 
 ---
 
@@ -31,6 +38,8 @@
 #### 4. [AR & Robotics] [2022-02-23_Virtual, Augmented, and Mixed Reality for Human-Robot Interaction: A Survey and Virtual Design Element Taxonomy](https://arxiv.org/abs/2202.11249)
 #### 5. [AR & 5G] [2022-03-04_Extended Reality (XR) over 5G and 5G-Advanced New Radio: Standardization, Applications, and Trends](https://arxiv.org/abs/2203.02242)
 #### 6. [AR & Robotics] [2022-03-07_Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)
+
+#### 7. [UI, Meta] [2022_Exploring Spatial UI Transition Mechanisms with Head-Worn Augmented Reality](https://scholar.google.com/scholar_url?url=https://ericlu.me/papers/ui_transition_chi22_preprint.pdf&hl=zh-CN&sa=X&d=6257014197178048915&ei=l7UrYuuMFJGJmwHIxpjYAw&scisig=AAGBfm2wUiNfyy7u62H3vDudhJyvaIpzcw&oi=scholaralrt&html=&pos=1&folt=rel)
 
 ---
 
