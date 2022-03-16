@@ -25,6 +25,8 @@
 
 #### 6. [VIO] [2022-03-14_A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry](https://arxiv.org/abs/2203.07207)
 
+#### 7. [SLAM, Andrew J. Davison] [2022-03-15_Simultaneous Localisation and Mapping with Quadric Surfaces](https://arxiv.org/abs/2203.08040)
+
 ---
 
 ### AR
@@ -40,6 +42,8 @@
 #### 6. [AR & Robotics] [2022-03-07_Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)
 
 #### 7. [UI, Meta] [2022_Exploring Spatial UI Transition Mechanisms with Head-Worn Augmented Reality](https://scholar.google.com/scholar_url?url=https://ericlu.me/papers/ui_transition_chi22_preprint.pdf&hl=zh-CN&sa=X&d=6257014197178048915&ei=l7UrYuuMFJGJmwHIxpjYAw&scisig=AAGBfm2wUiNfyy7u62H3vDudhJyvaIpzcw&oi=scholaralrt&html=&pos=1&folt=rel)
+
+#### 8. [AR & Communication] [2022-03-08_ARcall: Real-Time AR Communication using Smartphones and Smartglasses](https://arxiv.org/abs/2203.04358)
 
 ---
 
