@@ -19,6 +19,10 @@
 #### 2. [VIO, DNN, VINS-Mono based] [2022-01-14_SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions](https://arxiv.org/abs/2201.05386)
 
 #### 3. [Calibration] [2022_01-29_Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy](https://arxiv.org/abs/2201.09170)
+几个结论：  
+- RS相机在线的readout-time标定比较重要，对VIO状态估计最终的精度影响较大；
+- IMU的gravity sensitivity（Tg）和Rwa对VIO系统性能影响较小；
+- 不同IMU对gyro和acc重要程度不同，比如文中Bosch的BMI160的gyro noise很大，所以对gyro的bias和scale标定对状态估计精度有质的提升；然而其他IMU（MicroStrain GX5-25, MicroStrain GX5-35, Xsens MTi 100）相反地acc的noise很大。
 
 #### 4. [VISLAM] [2022-02-18_OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure](https://arxiv.org/abs/2202.09199)
 #### 5. [benchmark] [2022-02-23_Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets](https://arxiv.org/abs/2202.11312)
@@ -44,6 +48,8 @@
 #### 7. [UI, Meta] [2022_Exploring Spatial UI Transition Mechanisms with Head-Worn Augmented Reality](https://scholar.google.com/scholar_url?url=https://ericlu.me/papers/ui_transition_chi22_preprint.pdf&hl=zh-CN&sa=X&d=6257014197178048915&ei=l7UrYuuMFJGJmwHIxpjYAw&scisig=AAGBfm2wUiNfyy7u62H3vDudhJyvaIpzcw&oi=scholaralrt&html=&pos=1&folt=rel)
 
 #### 8. [AR & Communication] [2022-03-08_ARcall: Real-Time AR Communication using Smartphones and Smartglasses](https://arxiv.org/abs/2203.04358)
+
+#### 9. [AR & Robotics] [2022-03-16_Design and Evaluation of an Augmented Reality Head-Mounted Display Interface for Human Robot Teams Collaborating in Physically Shared Manufacturing Tasks](https://arxiv.org/abs/2203.08343)
 
 ---
 
