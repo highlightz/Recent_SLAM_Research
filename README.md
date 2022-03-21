@@ -53,6 +53,8 @@
 
 #### 9. [AR & Robotics] [2022-03-16_Design and Evaluation of an Augmented Reality Head-Mounted Display Interface for Human Robot Teams Collaborating in Physically Shared Manufacturing Tasks](https://arxiv.org/abs/2203.08343)
 
+#### 10. [AR & Ethics] [2022_Pervasive Augmented Reality—Technology and Ethics](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/iel7/7756/5210084/09733791.pdf&hl=zh-CN&sa=X&d=8420753794810736769&ei=lnM1YpL0JIytmwGEj6qIDw&scisig=AAGBfm3y8w4_1qEI_5lUPwNZ0C5ucavbFg&oi=scholaralrt&html=&pos=0&folt=rel)
+
 ---
 
 ### Localization
