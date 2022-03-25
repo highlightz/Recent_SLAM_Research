@@ -33,6 +33,8 @@
 
 #### 8. [SLAM, Andrew J. Davison] [2022-03-15_Simultaneous Localisation and Mapping with Quadric Surfaces](https://arxiv.org/abs/2203.08040)
 
+#### 9. [SLAM, RGB-D&LiDAR] [2022-03-24_MD-SLAM: Multi-cue Direct SLAM](https://arxiv.org/abs/2203.13237) | [code](https://github.com/digiamm/md_slam)
+
 ---
 
 ### AR
