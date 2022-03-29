@@ -35,6 +35,10 @@
 
 #### 9. [SLAM, RGB-D&LiDAR] [2022-03-24_MD-SLAM: Multi-cue Direct SLAM](https://arxiv.org/abs/2203.13237) | [code](https://github.com/digiamm/md_slam)
 
+#### 10. [RGB-D, SLAM] [2022-03-25_FD-SLAM: 3-D Reconstruction Using Features and Dense Matching](https://arxiv.org/abs/2203.13861)
+
+#### 11. [Point Cloud, ICP, LiDAR SLAM] [2022-03-25_Gravity-constrained point cloud registration](https://arxiv.org/abs/2203.13799) | [code](https://github.com/ethz-asl/libpointmatcher)
+
 ---
 
 ### AR
