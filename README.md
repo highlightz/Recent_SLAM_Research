@@ -39,6 +39,8 @@
 
 #### 11. [Point Cloud, ICP, LiDAR SLAM] [2022-03-25_Gravity-constrained point cloud registration](https://arxiv.org/abs/2203.13799) | [code](https://github.com/ethz-asl/libpointmatcher)
 
+#### 12. [VI-Localization] [2022-04_26_Map-based Visual-Inertial Localization: Consistency and Complexity](https://arxiv.org/abs/2204.12173)
+
 ---
 
 ### AR
