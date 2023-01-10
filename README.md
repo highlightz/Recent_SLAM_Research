@@ -17,8 +17,10 @@
 ---
 ### SLAM 
 
-#### 1.
-
+#### 1. [NeRF] [2023-01-08_Towards Open World NeRF-Based SLAM](https://arxiv.org/pdf/2301.03102.pdf)
+- 改进NICE-SLAM的精度和鲁棒性
+- 引入对深度测量不确定
+- 使用IMU测量信息
 
 ---
 
