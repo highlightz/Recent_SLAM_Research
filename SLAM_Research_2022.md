@@ -40,6 +40,8 @@
 
 #### 12. [VI-Localization] [2022-04_26_Map-based Visual-Inertial Localization: Consistency and Complexity](https://arxiv.org/abs/2204.12173)
 
+#### 13. [Collaborative VI-SLAM] [2022-11-04_D2SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm](https://arxiv.org/pdf/2211.01538.pdf)
+
 ---
 
 ### AR
