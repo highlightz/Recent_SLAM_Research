@@ -30,7 +30,7 @@
 
 ### Localization
 
-#### 1. [Long-term localization] 2023-01-06-[CyberLoc: Towards Accurate Long-term Visual Localization](https://arxiv.org/pdf/2301.02403.pdf)
+#### 1. [Long-term localization] [2023-01-06_CyberLoc: Towards Accurate Long-term Visual Localization](https://arxiv.org/pdf/2301.02403.pdf)
 - MLAD-ECCV2022定位挑战获胜
 - 多阶段PnP方法
 - 多重地图
