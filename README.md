@@ -17,6 +17,10 @@
 ---
 ### SLAM 
 
+#### 2. [边缘计算; 考虑网络带宽约束；应用于ORBSLAM3] [2023-01-11_AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization](https://arxiv.org/pdf/2301.04620.pdf) | [code](https://github.com/i3tyc/AdaptSLAM)
+<img width="582" alt="屏幕快照 2023-01-17 上午8 59 14" src="https://user-images.githubusercontent.com/8455054/212787352-5577ac00-6528-4125-b85e-0294a88c1f8f.png">
+
+
 #### 1. [NeRF] [2023-01-08_Towards Open World NeRF-Based SLAM](https://arxiv.org/pdf/2301.03102.pdf)
 - 改进NICE-SLAM的精度和鲁棒性
 - 引入对深度测量不确定
