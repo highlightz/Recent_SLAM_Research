@@ -71,5 +71,16 @@
 
 ---
 
+### Mapping
+#### 1. [3D Semantic Mapping][Autonomous Driving][Daniel Cremers][2022-03-02_Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications](https://arxiv.org/pdf/2203.01087.pdf)
+- 仅基于双目相机系统
+- 稀疏直接法视觉里程计作为前端
+- 融合GNSS信息和带语义标签的3D点云的全局优化作为后端
+- 基于时间域的投票机制，提升3D点云语义标签的精度和连续性
+- 在KITTI-360 dataset上测评
+- 也在车队采集的8000公里的柏林公路数据集上测试
+
+---
+
 ### XR算法堆栈
 ![XR power](XRStack.png)
