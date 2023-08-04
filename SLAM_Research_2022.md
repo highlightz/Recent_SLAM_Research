@@ -13,34 +13,39 @@
 
 ---
 ### SLAM 
-#### 1. [VIO] [2022-01-11_DM-VIO: Delayed Marginalization Visual-Inertial Odometry](https://arxiv.org/abs/2201.04114) | [code](https://vision.in.tum.de/research/vslam/dm-vio?redirect=1)
 
-#### 2. [VIO, DNN, VINS-Mono based] [2022-01-14_SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions](https://arxiv.org/abs/2201.05386)
+#### 1. [SmSLAM+LCD, 3D Semantic] [2022-01-03_Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs](https://fujie.ece.ufl.edu/wp-content/uploads/sites/79/2022/02/SemanticSLAM-Covisibility-RAL2022.pdf)
+- 提出物体共视图的概念
 
-#### 3. [Calibration] [2022_01-29_Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy](https://arxiv.org/abs/2201.09170)
+#### 2. [VIO] [2022-01-11_DM-VIO: Delayed Marginalization Visual-Inertial Odometry](https://arxiv.org/abs/2201.04114) | [code](https://vision.in.tum.de/research/vslam/dm-vio?redirect=1)
+
+#### 3. [VIO, DNN, VINS-Mono based] [2022-01-14_SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions](https://arxiv.org/abs/2201.05386)
+
+#### 4. [Calibration] [2022_01-29_Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy](https://arxiv.org/abs/2201.09170)
 几个结论：  
 - RS相机在线的readout-time标定比较重要，对VIO状态估计最终的精度影响较大；
 - IMU的gravity sensitivity（Tg）和Rwa对VIO系统性能影响较小；
 - 不同IMU对gyro和acc重要程度不同，比如文中Bosch的BMI160的gyro noise很大，所以对gyro的bias和scale标定对状态估计精度有质的提升；然而其他IMU（MicroStrain GX5-25, MicroStrain GX5-35, Xsens MTi 100）相反地acc的noise很大。
 
-#### 4. [SLAM] [2022-02-14_DE-SLAM: SLAM for highly dynamic environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22062)
+#### 5. [SLAM] [2022-02-14_DE-SLAM: SLAM for highly dynamic environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22062)
 
-#### 5. [VISLAM] [2022-02-18_OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure](https://arxiv.org/abs/2202.09199)
-#### 6. [benchmark] [2022-02-23_Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets](https://arxiv.org/abs/2202.11312)
+#### 6. [VISLAM] [2022-02-18_OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure](https://arxiv.org/abs/2202.09199)
 
-#### 7. [VIO] [2022-03-14_A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry](https://arxiv.org/abs/2203.07207)
+#### 7. [benchmark] [2022-02-23_Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets](https://arxiv.org/abs/2202.11312)
 
-#### 8. [SLAM, Andrew J. Davison] [2022-03-15_Simultaneous Localisation and Mapping with Quadric Surfaces](https://arxiv.org/abs/2203.08040)
+#### 8. [VIO] [2022-03-14_A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry](https://arxiv.org/abs/2203.07207)
 
-#### 9. [SLAM, RGB-D&LiDAR] [2022-03-24_MD-SLAM: Multi-cue Direct SLAM](https://arxiv.org/abs/2203.13237) | [code](https://github.com/digiamm/md_slam)
+#### 9. [SLAM, Andrew J. Davison] [2022-03-15_Simultaneous Localisation and Mapping with Quadric Surfaces](https://arxiv.org/abs/2203.08040)
 
-#### 10. [RGB-D, SLAM] [2022-03-25_FD-SLAM: 3-D Reconstruction Using Features and Dense Matching](https://arxiv.org/abs/2203.13861)
+#### 10. [SLAM, RGB-D&LiDAR] [2022-03-24_MD-SLAM: Multi-cue Direct SLAM](https://arxiv.org/abs/2203.13237) | [code](https://github.com/digiamm/md_slam)
 
-#### 11. [Point Cloud, ICP, LiDAR SLAM] [2022-03-25_Gravity-constrained point cloud registration](https://arxiv.org/abs/2203.13799) | [code](https://github.com/ethz-asl/libpointmatcher)
+#### 11. [RGB-D, SLAM] [2022-03-25_FD-SLAM: 3-D Reconstruction Using Features and Dense Matching](https://arxiv.org/abs/2203.13861)
 
-#### 12. [VI-Localization] [2022-04_26_Map-based Visual-Inertial Localization: Consistency and Complexity](https://arxiv.org/abs/2204.12173)
+#### 12. [Point Cloud, ICP, LiDAR SLAM] [2022-03-25_Gravity-constrained point cloud registration](https://arxiv.org/abs/2203.13799) | [code](https://github.com/ethz-asl/libpointmatcher)
 
-#### 13. [Collaborative VI-SLAM] [2022-11-04_D2SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm](https://arxiv.org/pdf/2211.01538.pdf)
+#### 13. [VI-Localization] [2022-04_26_Map-based Visual-Inertial Localization: Consistency and Complexity](https://arxiv.org/abs/2204.12173)
+
+#### 14. [Collaborative VI-SLAM] [2022-11-04_D2SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm](https://arxiv.org/pdf/2211.01538.pdf)
 
 ---
 
